@@ -1,10 +1,12 @@
 Create new git 
 
-git init git add --all 
+git init
+git add --all 
 git commit -m "Message" 
 git remote add https://github.com/<git>.git 
 
 Git local changes 
+
 git status
 git add - all
 git add -p <file>
@@ -23,10 +25,9 @@ git checkout <branch>
 
 Git undo 
 
-git reset - -hard HEAD 
+git reset --hard HEAD 
 git checkout HEAD <file>
 git revert <commitId>
-
 
 
 https://scontent.fakl2-1.fna.fbcdn.net/v/t1.0-9/s960x960/77041469_2669284959802018_3473133653326823424_o.jpg?_nc_cat=104&_nc_ohc=ZQTaRdtxYxAAQlLhfnffsjDivHvl30HVQuc01USmlfu0lZjOaY09VRNAA&_nc_ht=scontent.fakl2-1.fna&oh=3b3b9903ec84a85a77cee6b7914a396e&oe=5E4D8236
