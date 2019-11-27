@@ -1,32 +1,32 @@
-# Github-Cheat-Sheet
+# My Github-Cheat-Sheet
 
 
-## Create new git 
+### Create new git 
 
 * ``` git init ```
 * ``` git add --all ```
 * ``` git commit -m "Message" ```
 * ``` git remote add https://github.com/<git>.git ```
 
-## Git local changes 
+### Git local changes 
 
 * ``` git status ```
 * ``` git add --all ```
 * ``` git add -p <file> ```
 
-## Git history 
+### Git history 
 
 * ``` git log ```
 * ``` git log -p <file> ```
 * ``` git blame <file> ```
 
-## Git branch 
+### Git branch 
 
 * ``` git branch -av ```
 * ``` git branch  <new-branch> ```
 * ``` git checkout <branch> ```
 
-## Git undo 
+### Git undo 
 
 * ``` git reset --hard HEAD ```
 * ``` git checkout HEAD <file> ```
